@@ -1,0 +1,55 @@
+[
+  {
+    "id": "1",
+    "title": "온라인 쇼핑몰",
+    "description": "React와 TypeScript를 사용하여 개발한 온라인 쇼핑몰입니다. 상품 검색, 필터링, 장바구니, 결제 기능을 구현했습니다. 반응형 디자인으로 모바일 환경에서도 최적화되어 있습니다.",
+    "image": "/project-placeholder.svg",
+    "tags": ["React", "TypeScript", "Tailwind CSS", "Redux"],
+    "githubUrl": "https://github.com/username/project1",
+    "demoUrl": "https://project1-demo.vercel.app"
+  },
+  {
+    "id": "2",
+    "title": "블로그 플랫폼",
+    "description": "Next.js와 MongoDB를 사용한 블로그 플랫폼입니다. 사용자 인증, 글 작성, 댓글 기능을 구현했습니다. 마크다운 에디터를 통해 글을 쉽게 작성할 수 있습니다.",
+    "image": "/project-placeholder.svg",
+    "tags": ["Next.js", "MongoDB", "Express", "Node.js"],
+    "githubUrl": "https://github.com/username/project2"
+  },
+  {
+    "id": "3",
+    "title": "일정 관리 앱",
+    "description": "Vue.js와 Firebase를 활용한 일정 관리 애플리케이션입니다. 실시간 데이터 동기화, 사용자 인증, 알림 기능을 구현했습니다. 달력 뷰와 리스트 뷰를 제공하여 사용자가 편리하게 일정을 관리할 수 있습니다.",
+    "image": "/project-placeholder.svg",
+    "tags": ["Vue.js", "Firebase", "Vuex", "SCSS"],
+    "githubUrl": "https://github.com/username/project3",
+    "demoUrl": "https://project3-demo.vercel.app"
+  },
+  {
+    "id": "4",
+    "title": "날씨 정보 앱",
+    "description": "React Native로 개발한 모바일 날씨 정보 앱입니다. 위치 기반 날씨 정보와 주간 예보를 제공합니다. 다크 모드도 지원합니다.",
+    "image": "/project-placeholder.svg",
+    "tags": ["React Native", "Expo", "API Integration", "Geolocation"],
+    "githubUrl": "https://github.com/username/project4",
+    "demoUrl": "https://expo.dev/@username/weather-app"
+  },
+  {
+    "id": "5",
+    "title": "포트폴리오 웹사이트",
+    "description": "React와 Tailwind CSS를 사용하여 개발한 개인 포트폴리오 웹사이트입니다. 반응형 디자인과 다크 모드를 지원합니다.",
+    "image": "/project-placeholder.svg",
+    "tags": ["React", "Tailwind CSS", "Vite", "Responsive Design"],
+    "githubUrl": "https://github.com/username/portfolio",
+    "demoUrl": "https://username-portfolio.vercel.app"
+  },
+  {
+    "id": "6",
+    "title": "음악 스트리밍 서비스",
+    "description": "React와 Node.js를 사용한 음악 스트리밍 서비스입니다. Spotify API를 활용하여 음악 검색, 재생 목록 생성, 음악 재생 기능을 구현했습니다.",
+    "image": "/project-placeholder.svg",
+    "tags": ["React", "Node.js", "Express", "Spotify API"],
+    "githubUrl": "https://github.com/username/music-streaming",
+    "demoUrl": "https://music-streaming-demo.vercel.app"
+  }
+] 

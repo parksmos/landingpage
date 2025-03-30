@@ -1,0 +1,53 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 비행기 본체 -->
+  <path d="M350 230C350 180 380 170 450 170C520 170 580 180 580 230C580 280 520 290 450 290C380 290 350 280 350 230Z" fill="#BFDBFE" stroke="#3B82F6" stroke-width="4" />
+  
+  <!-- 비행기 코 부분 -->
+  <path d="M330 230C330 230 350 200 350 230C350 260 330 230 330 230Z" fill="#BFDBFE" stroke="#3B82F6" stroke-width="4" />
+  
+  <!-- 꼬리 -->
+  <path d="M580 230C580 230 620 180 610 230C600 280 580 230 580 230Z" fill="#BFDBFE" stroke="#3B82F6" stroke-width="4" />
+  
+  <!-- 날개 -->
+  <path d="M450 170C450 170 400 130 450 120C500 130 450 170 450 170Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="3" />
+  <path d="M450 290C450 290 400 330 450 340C500 330 450 290 450 290Z" fill="#93C5FD" stroke="#3B82F6" stroke-width="3" />
+  
+  <!-- 창문들 -->
+  <circle cx="400" cy="230" r="15" fill="white" stroke="#3B82F6" stroke-width="2" />
+  <circle cx="450" cy="230" r="15" fill="white" stroke="#3B82F6" stroke-width="2" />
+  <circle cx="500" cy="230" r="15" fill="white" stroke="#3B82F6" stroke-width="2" />
+  
+  <!-- 눈과 미소 -->
+  <circle cx="370" cy="225" r="5" fill="#1E40AF" />
+  <circle cx="370" cy="235" r="5" fill="#1E40AF" />
+  <path d="M385 245C385 245 400 255 415 245" stroke="#1E40AF" stroke-width="3" stroke-linecap="round" />
+
+  <!-- 구름 장식 1 -->
+  <g opacity="0.9">
+    <ellipse cx="200" cy="180" rx="40" ry="25" fill="white"/>
+    <ellipse cx="230" cy="165" rx="30" ry="20" fill="white"/>
+    <ellipse cx="260" cy="185" rx="35" ry="22" fill="white"/>
+    <ellipse cx="180" cy="190" rx="25" ry="18" fill="white"/>
+  </g>
+
+  <!-- 구름 장식 2 -->
+  <g opacity="0.7">
+    <ellipse cx="650" cy="280" rx="35" ry="22" fill="white"/>
+    <ellipse cx="675" cy="270" rx="28" ry="18" fill="white"/>
+    <ellipse cx="695" cy="285" rx="30" ry="20" fill="white"/>
+    <ellipse cx="630" cy="285" rx="25" ry="15" fill="white"/>
+  </g>
+
+  <!-- 태양 장식 -->
+  <circle cx="700" cy="150" r="30" fill="#FDE68A" stroke="#F59E0B" stroke-width="2" />
+  <g>
+    <line x1="670" y1="150" x2="650" y2="150" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" />
+    <line x1="730" y1="150" x2="750" y2="150" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" />
+    <line x1="700" y1="120" x2="700" y2="100" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" />
+    <line x1="700" y1="180" x2="700" y2="200" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" />
+    <line x1="678" y1="128" x2="665" y2="115" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" />
+    <line x1="722" y1="172" x2="735" y2="185" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" />
+    <line x1="678" y1="172" x2="665" y2="185" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" />
+    <line x1="722" y1="128" x2="735" y2="115" stroke="#F59E0B" stroke-width="3" stroke-linecap="round" />
+  </g>
+</svg> 
