@@ -22,3 +22,23 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Node 의존성
+node_modules/
+
+# 빌드 결과물
+build/
+
+# 환경변수
+.env*
+!.env.example
+
+# 로그
+npm-debug.log*
+
+# 테스트 커버리지
+coverage/
+
+# 캐시/IDE
+.vscode/
+.DS_Store
